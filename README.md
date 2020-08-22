@@ -1,9 +1,9 @@
 # Notable!
-
                                                  
 <img align="right" width="100" height="100" src='./Images/iconfinder_Invisible_728947.png'>
 
-> [C#/Unity] DawnBreaker is a stealth-action game built in Unity3D featuring: Field of View; Aggro Detection;  Way-Point Patrol and Return implementations
+> [Java/Kotlin] An Optical Music Recognition Software 
+
 
 ## Project Description
 
@@ -55,9 +55,9 @@ August Bryan Florese – [@Aroueterra](https://www.facebook.com/Aroueterra) – 
 
 Jay-Vince Eleazar
 
-Kenneth Villanueva
+Kenneth Dan Villanueva
 
-Maika Calinog
+Jorena Maika Calinog
 
 **Special Thanks and Credits due to the owners/joint-owners of all of the free assets used by the project, including but not limited to:**
 - Android Studio
