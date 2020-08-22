@@ -1,6 +1,6 @@
 # Notable!
                                                  
-<img align="right" width="100" height="100" src='./Images/iconfinder_Invisible_728947.png'>
+<img align="right" width="100" height="100" src='./Images/a.png'>
 
 > [Java/Kotlin] An Optical Music Recognition Software 
 
@@ -29,7 +29,7 @@ Run Notable.APK
 
 ## Usage
 
-<img src='./Images/asd.png'>
+<img src='./Images/b.png'>
 
 
 
@@ -47,7 +47,7 @@ Run Notable.APK
 
 ## Contributors
 
-<img src='./Images/75439372_727171974452129_6547258990814822400_n.png'>
+<img src='./Images/c.png'>
 
 This project was conducted by team **Toga Party**, in compliance of the requirements for graduation.
 
