@@ -44,7 +44,7 @@ Listen...
 
 ## Contributors
 
-<img src='./Images/b.png'>
+<img align="right" width="100" height="100" src='./Images/t.png'>
 
 This project was conducted by team **Toga Party**, in compliance of the requirements for graduation.
 
