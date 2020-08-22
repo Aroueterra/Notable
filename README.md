@@ -1,6 +1,6 @@
 # Notable!
                                                  
-<img align="right" width="100" height="100" src='./Images/a.png'>
+<img align="right" width="100" height="100" src='./Images/c.png'>
 
 > [Java/Kotlin] An Optical Music Recognition Software 
 
@@ -16,7 +16,8 @@
 
 ## Requirements
 
-Android version 21 and above
+1. A phone
+2. Android OS version 21 and above
 
 ## Installation
 
@@ -27,16 +28,12 @@ Download the APK file from releases into your phone
 Run Notable.APK
 ```
 
-## Usage
-
-<img src='./Images/b.png'>
-
-
-
 ## Instructions
-<img align="right" width="100" height="100" src='./Images/iconfinder_game_512535.png'>
+<img align="right" width="100" height="100" src='./Images/a.png'>
 
+Scan the sheet music with the Notable application opened.
 
+Listen...
 
 ## Release History
 
@@ -47,7 +44,7 @@ Run Notable.APK
 
 ## Contributors
 
-<img src='./Images/c.png'>
+<img src='./Images/b.png'>
 
 This project was conducted by team **Toga Party**, in compliance of the requirements for graduation.
 
